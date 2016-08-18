@@ -1,0 +1,21 @@
+{
+  "name": "@jclancy/dev",
+  "version": "1.0.0",
+  "description": "jacks project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "jclancy",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
